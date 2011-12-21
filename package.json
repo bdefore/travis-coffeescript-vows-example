@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "start": "src/helloworld.js",
+    "test": "vows test/* --spec"
+  },
+  "dependencies": {
+    "vows": "*"
+  },
+  "devDependencies": {
+    "vows": "*"
+  },
+  "name": "helloworld",
+  "subdomain": "helloworld",
+  "version": "0.0.0"
+}
