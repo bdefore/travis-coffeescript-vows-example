@@ -4,10 +4,12 @@
     "test": "vows test/* --spec"
   },
   "dependencies": {
-    "vows": "*"
+    "vows": "*",
+    "coffee-script": "1.2.0"
   },
   "devDependencies": {
-    "vows": "*"
+    "vows": "*",
+    "coffee-script": "1.2.0"
   },
   "name": "helloworld",
   "subdomain": "helloworld",
